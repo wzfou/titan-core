@@ -1,8 +1,8 @@
 // src/data/menu.ts
 
 export const headerMenu = [
-    { name: 'Theme Info', link: '/theme-info' },
-    { name: 'Our Team', link: '/team' },
+    { name: '宇宙帝王', link: '/theme-info' },
+    { name: '春哥战队', link: '/team' },
     { name: 'Blog', link: '/blog' },
     { name: 'Style-Guide', link: '/style-guide', showArrow: false,
         children: [
